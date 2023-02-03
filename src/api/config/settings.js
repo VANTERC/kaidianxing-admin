@@ -10,10 +10,10 @@
  */
 //
 var config = {//测试站
-    "base_url": "https://free-shopstar.v5bsklk.getpkg.cn/api",
-    "attachment_url": "https://free-shopstar.v5bsklk.getpkg.cn/data/attachment/",
-    "public_url": "https://free-shopstar.v5bsklk.getpkg.cn/",
-    "wap_dist_url": "https://free-shopstar.v5bsklk.getpkg.cn/static/dist/shop/kdx_wap/",
+    "base_url": "https://shop.eftik.com/api",
+    "attachment_url": "https://shop.eftik.com/data/attachment/",
+    "public_url": "https://shop.eftik.com/",
+    "wap_dist_url": "https://shop.eftik.com/static/dist/shop/kdx_wap/",
     "route": "history"
 }
 // var config = { //lkx
